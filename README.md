@@ -9,9 +9,7 @@ The primary objective of this project is to strengthen skills in data cleaning, 
 - Original dataset size: 209,196 rows × 34 columns
 - I used the .info() method form python`s libraryto get the summary of DataFrame.
 - Refined dataset: 209,196 rows × 29 columns
-- Proceeded to use the .dropna() to remove redundant columns.[eda_analysis.ipynb](https://github.com/user-attachments/files/24725624/eda_analysis.ipynb)
-[eda_analysis.ipynb](https://github.com/user-attachments/files/24725619/eda_analysis.ipynb)
-[eda_analysis.ipynb](https://github.com/user-attachments/files/24725615/eda_analysis.ipynb)
+- Proceeded to use the .dropna() to remove redundant columns.[eda_analysis.ipynb]
 
 - Several columns were removed due to high missingness, redundancy, or limited analytical value
 - The dataset contains aggregated indicators and mixed measurement definitions
